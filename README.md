@@ -2,7 +2,7 @@
 
 ## 🎯 Project Overview
 
-This project explores the use of **Autoencoders (AE)** for **Dimensionality Reduction** (compression) of high-dimensional product embeddings. The goal is to significantly reduce the size of vector embeddings originally derived from a powerful Vision-Language model (like CLIP)—while preserving their **semantic richness** for downstream tasks, specifically **retrieval and similarity search**.
+This project explores the use of **Autoencoders (AE)** for **Dimensionality Reduction** (compression) of high-dimensional product embeddings. The goal is to significantly reduce the size of vector embeddings originally derived from a powerful Vision-Language model (like CLIP), while preserving their **semantic richness** for downstream tasks, specifically **retrieval and similarity search**.
 
 This optimization is crucial for:
 1.  **Reducing Storage Costs:** Storing millions of smaller vectors is cheaper.
