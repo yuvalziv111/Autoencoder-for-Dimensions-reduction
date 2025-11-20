@@ -13,7 +13,7 @@ This optimization is crucial for:
 
 ### 1. Data Source
 
-* **Source:** Product embeddings sourced from a e-commerce catalog.
+* **Source:** Product embeddings sourced from an e-commerce catalog.
 * **Initial Dimensionality:** The original embeddings are 372-dimensional.
 * **Dataset:** A sample of 10,000 product embeddings was used for training and evaluation.
 
