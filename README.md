@@ -1,4 +1,4 @@
-# 👕👗 Autoencoder-Based Embedding Compression for E-commerce Search (GAP Products)
+# 👕👗 Autoencoder-Based Embedding Compression for E-commerce Search
 
 ## 🎯 Project Overview
 
